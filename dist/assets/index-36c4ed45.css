@@ -1,0 +1,1 @@
+.sparkle{position:relative;overflow:hidden}.sparkle:before{content:"";position:absolute;top:-50%;left:-50%;width:200%;height:200%;background-image:radial-gradient(white 1px,transparent 1px);background-size:4px 4px;opacity:.06;animation:sparkleMove 30s linear infinite;pointer-events:none}@keyframes sparkleMove{0%{transform:translate(0)}to{transform:translate(50%,50%)}}
